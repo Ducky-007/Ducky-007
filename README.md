@@ -15,6 +15,6 @@ My Technical Skills:
 
 - 🌱 I’m currently learning: depth first traversals through directed/undirected cyclical/acyclical graphs
                              breadth-first searches through directed/undirected cyclical/acyclical graphs
-- 📫 How to reach me: c.duckett93@gmail.com
+- 📫 Email me: c.duckett93@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can sing, play the guitar, bass, piano and drums (not all of them at the same time)!
