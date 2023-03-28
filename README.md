@@ -5,13 +5,13 @@ Hello! I'm a data scientist/analyst passionate about solving problems, staying c
 As I finish through Bloomtech's data science program, I've gained the tools necessary to solve problems and realizing my potential in being able to help others too. I can't wait to join a dedicated team who cuts no corners, won't rest until the job is done and have some fun along the way!
 
 My Technical Skills:
--🐍 Python
--🐼 Pandas
--🥜 Numpy
--🪢 Scikit-Learn
--🪡 SQL
--📈 Matplotlib
--🤖 Machine Learning
+🐍 Python,
+🐼 Pandas,
+🥜 Numpy,
+🪢 Scikit-Learn,
+🪡 SQL,
+📈 Matplotlib,
+🤖 Machine Learning
 
 - 🌱 I’m currently learning: depth first traversals through directed/undirected cyclical/acyclical graphs
                              breadth-first searches through directed/undirected cyclical/acyclical graphs
