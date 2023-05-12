@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">A graduate of Bloomtech's Data Science program. A data analyst/data engineer passionate about solving problems, staying curious and doing whatever is necessary in order to get the job done. I'm a valuable team player because I listen well to others and take on any problems with my full attention and dedication. As I finish through Bloomtech's data science program, I've gained the tools necessary to solve problems and realizing my potential in being able to help others too. I can't wait to join a dedicated team who cuts no corners, won't rest until the job is done and have some fun along the way!</h3>
+<h3 align="center">Data Analyst|Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
