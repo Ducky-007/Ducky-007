@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">Data Analyst|Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
+<h3 align="center">Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
