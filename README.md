@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
+<h3 align="center">Data Analyst|Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducky-007&show_icons=true&locale=en&layout=compact" alt="ducky-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducky-007&show_icons=true&locale=en" alt="ducky-007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducky-007&" alt="ducky-007" /></p>
