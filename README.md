@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cameron Duckett!</h1>
 <h3 align="center">Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
--🌿 I'm currently studying AWS Data Analytics!
+- 🌿 I'm currently studying AWS Data Analytics!
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
