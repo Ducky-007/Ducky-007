@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15AarXgS4fq8fwuSth38W8YCoIKGrQmz9/view?usp=share_link](https://drive.google.com/file/d/15AarXgS4fq8fwuSth38W8YCoIKGrQmz9/view?usp=share_link)
-
 - ⚡ Fun fact **I can sing, play the guitar, bass, piano and drums (not all of them at the same time)!**
 
 <h3 align="left">Connect with me:</h3>
