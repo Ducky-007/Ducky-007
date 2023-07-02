@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cameron Duckett!</h1>
 <h3 align="center">Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
+- 🌱 I’m currently prepping for the AWS Solutions Architect Associate Exam! **AWS**
+
 - 📫 How to reach me **c.duckett93@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15AarXgS4fq8fwuSth38W8YCoIKGrQmz9/view?usp=share_link](https://drive.google.com/file/d/15AarXgS4fq8fwuSth38W8YCoIKGrQmz9/view?usp=share_link)
 
 - ⚡ Fun fact **I can sing, play the guitar, bass, piano and drums (not all of them at the same time)!**
 
