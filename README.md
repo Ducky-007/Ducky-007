@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">AWS Certified | Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
+<h3 align="center">AWS CCP Certified | Data Analyst | Data Engineer. Graduate of Bloomtech's Data Science program.</h3>
 
 - 🌱 I’m currently prepping for the AWS Solutions Architect Associate Exam! **AWS**
 
