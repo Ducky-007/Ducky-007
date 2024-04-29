@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">AWS Certified | Data Analyst | Graduate of Bloomtech's Data Science program </h3>
+<h3 align="center">AWS Certified | Data Analyst | Graduate of Bloomtech's Data Science Program </h3>
 
 - 📊 I'm currently working as a **Support Analyst** at **Syndigo**
 
