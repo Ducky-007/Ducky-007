@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">AWS Certified | Data Analyst | Data Engineer Graduate of Bloomtech's Data Science program.</h3>
+<h3 align="center">AWS Certified | Data Analyst | Graduate of Bloomtech's Data Science program.</h3>
 
 - 📊 I'm currently working as a **Support Analyst** at **Syndigo**
 
-- 🌱 I’m currently learning from the course on LinkedIn Learning: Agile Product Owner Role: Foundations
+- 🌱 I’m currently learning from the course on LinkedIn Learning: **Agile Product Owner Role: Foundations**
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
