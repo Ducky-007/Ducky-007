@@ -3,7 +3,7 @@
 
 - 📊 I'm currently working as a **Support Analyst** at **Syndigo**
 
-- 🌱 I’m currently learning from the course on LinkedIn Learning: **Learning REST APIs**
+- 🌱 I’m currently working towards getting my Bachelor's Degree in Software Engineering at **Western Governors University**
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
