@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
 <h3 align="center">Software Engineer | AWS Certified | Graduate of Bloomtech's Data Science Program </h3>
 
-- 📊 I'm currently working as a **Support Analyst** at **Syndigo**
+- 📊 I'm currently working as a **Tier 2 Support Analyst** at **Syndigo**
 
 - 🌱 I’m currently working towards getting my Bachelor's Degree in Software Engineering at **Western Governors University**
 
