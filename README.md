@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
-- ⚡ Fun fact **I can sing, play the guitar, bass, piano and drums (not all of them at the same time)!**
+- ⚡ Fun fact **I can sing, play the guitar, bass, piano, and drums (not all of them at the same time)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a> <img src="[https://github.com/user-attachments/assets/eff2da35-c80c-47a2-ba12-417fc05bbad7](https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg)" alt="C#" width="40" height="40"/> </a>
 <a> <img src="https://github.com/user-attachments/assets/eff2da35-c80c-47a2-ba12-417fc05bbad7" alt="Javascript" width="40" height="40"/> </a>
 <a> <img src="https://github.com/user-attachments/assets/1015be97-c0ce-46d3-8f6b-722c0a4042a6" alt="CSS" width="40" height="40"/> </a>
 <a> <img src="https://github.com/user-attachments/assets/79d7cde3-0266-4f16-ab84-ec9c0a3ad72b" alt="HTML5" width="40" height="40"/> </a>
