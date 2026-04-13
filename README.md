@@ -3,7 +3,7 @@
 
 - 📊 I'm currently working as a **Tier 2 Support Analyst** at **Syndigo**
 
-- 🌱 I’m currently working towards getting my Bachelor's Degree in Software Engineering at **Western Governors University**
+- 🌱 I’m currently working on my capstone towards getting my Bachelor's Degree in Software Engineering at **Western Governors University**
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
