@@ -1,9 +1,10 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">Software Engineer | AWS Certified | Graduate of Bloomtech's Data Science Program </h3>
+<h3 align="center">Software Engineer | AWS Certified | BS Software Engineering's Data Science Program </h3>
 
 - 📊 I'm currently working as a **Tier 2 Support Analyst** at **Syndigo**
 
-- 🌱 I’m currently working on my capstone towards getting my Bachelor's Degree in Software Engineering at **Western Governors University**
+- 👨🏼‍🎓 Bachelor of Science, Software Engineering from **Western Governors University**
+- 👨🏼‍🎓 Graduate of **Bloomtech's** Data Science Program
 
 - 📫 How to reach me **c.duckett93@gmail.com**
 
