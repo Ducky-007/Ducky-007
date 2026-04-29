@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Cameron Duckett!</h1>
-<h3 align="center">Software Engineer | AWS Certified | BS Software Engineering's Data Science Program </h3>
+<h3 align="center">Software Engineer | AWS Certified | BS Software Engineering </h3>
 
 - 📊 I'm currently working as a **Tier 2 Support Analyst** at **Syndigo**
 
